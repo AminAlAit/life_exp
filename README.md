@@ -1,5 +1,5 @@
-## [Visualizing Inequalities in Life Expectancy](https://github.com/AminAlAit/life_exp)
-### [A GGPlot2 Tutorial](https://github.com/AminAlAit/life_exp)
+## [Visualizing Inequalities in Life Expectancy](https://github.com/AminAlAit/life_exp/blob/main/notebook.ipynb)
+### [A GGPlot2 Tutorial](https://github.com/AminAlAit/life_exp/blob/main/notebook.ipynb)
 <span style="background-color: #DCDCDC">R</span> 
 <span style="background-color: #DCDCDC">Data Visualization</span> 
 <span style="background-color: #DCDCDC">Data Manipulation</span> 
